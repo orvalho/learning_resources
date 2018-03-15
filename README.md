@@ -9,7 +9,7 @@
 
 - [x] [Learn Javascript](https://www.gitbook.com/book/gitbookio/javascript/details). This book teaches the basics of programming in JS. I would highly recommend it to anyone interested in JS. Extremely simple. Very clear to the point.
 - [x] [JavaScript For Cats.](http://jsforcats.com/) An introduction to JS for new programmers. Easy to follow.
-- [ ] [Airbnb JavaScript Style Guide.](https://github.com/airbnb/javascript#functions)
+- [ ] [Airbnb JavaScript Style Guide.](https://github.com/airbnb/javascript)
 
 ### Videos
 
