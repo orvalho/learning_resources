@@ -15,6 +15,7 @@
 
 - [x] [Learn JavaScript in One Week](https://coderbyte.com/course/learn-javascript-in-one-week). A great resource to learn the basics of JS and to practice solving some challenges (coderbyte).
 - [ ] [JavaScript Basics.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
+- [ ] [DOM - Beau teaches JavaScript.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO)
 
 
 ### Articles
