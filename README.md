@@ -36,3 +36,13 @@
 ## Git & Github
 
 - [ ] [Git & GitHub.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
+
+
+
+
+## Chrome extensions
+
+- [ ] [Chrome extension tutorial.](https://github.com/jumbosushi/chrome-extension-tutorial)
+
+
+
