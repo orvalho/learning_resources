@@ -1,7 +1,7 @@
 # Learning resources I use & recommend
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+</br>
 ## ![JS icon](/images/js.png) JavaScript
 
 ### Books & long reads
