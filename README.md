@@ -36,4 +36,6 @@
 - [ ] [Chrome extension tutorial.](https://github.com/jumbosushi/chrome-extension-tutorial)
 
 
+## Computer Science
 
+- [ ] [Computer Science and Software Engineering Theory with Briana.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy)
