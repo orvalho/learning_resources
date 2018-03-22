@@ -34,7 +34,7 @@
 
 ## Chrome extensions
 
-- [ ] [Chrome extension tutorial.](https://github.com/jumbosushi/chrome-extension-tutorial)
+- [x] [Chrome extension tutorial.](https://github.com/jumbosushi/chrome-extension-tutorial) Extensions are small software programs that can modify and enhance the functionality of the Chrome browser. This tutorial teaches how to create chrome extension to replace all the pictures in your tab with the picture of your choice. 
 
 
 ## Computer Science
