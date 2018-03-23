@@ -40,3 +40,7 @@
 ## Computer Science
 
 - [ ] [Computer Science and Software Engineering Theory with Briana.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy)
+
+
+## Command Line
+- [ ] [Windows Command Line Tutorials.](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
