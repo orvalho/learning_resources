@@ -8,6 +8,7 @@
 - [x] [JavaScript For Cats.](http://jsforcats.com/) An introduction to JS for new programmers. Easy to follow.
 - [ ] [Airbnb JavaScript Style Guide.](https://github.com/airbnb/javascript)
 - [ ] [Eloquent JavaScript.](https://eloquentjavascript.net/)
+- [ ] [Coding with JavaScript For Dummies.](https://www.amazon.com/Coding-JavaScript-Dummies-Chris-Minnick/dp/1119056071)
 
 ### Videos
 
