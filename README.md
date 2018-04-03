@@ -23,7 +23,7 @@
 ### Interactive resources
 
 - [x] [Try JavaScript by Code School.](https://www.javascript.com/try) A 5 minute introduction to JS.
-- [ ] [Coding with JavaScript For Dummies](https://www.codecademy.com/en/tracks/coding-with-javascript-for-dummies)
+- [ ] [Coding with JavaScript For Dummies.](https://www.codecademy.com/en/tracks/coding-with-javascript-for-dummies)
 
 ## ![MD icon](/images/md.png) Markdown
 
@@ -43,6 +43,7 @@
 ## Computer Science
 
 - [ ] [Computer Science and Software Engineering Theory with Briana.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy)
+- [ ] [Internet 101.](https://www.khanacademy.org/computing/computer-science/internet-intro)
 
 
 ## Command Line
