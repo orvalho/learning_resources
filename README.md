@@ -45,7 +45,7 @@
 
 - [ ] [Computer Science and Software Engineering Theory with Briana.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy)
 - [x] [Internet 101.](https://www.khanacademy.org/computing/computer-science/internet-intro)
-- [ ] [Networks.](https://www.youtube.com/playlist?list=PLWKjhJtqVAblzbwhT83fRh5nNSHqywxrw)
+- [x] [Networks.](https://www.youtube.com/playlist?list=PLWKjhJtqVAblzbwhT83fRh5nNSHqywxrw)
 
 ## Command Line
 
