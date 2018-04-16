@@ -25,6 +25,7 @@
 
 - [x] [Try JavaScript by Code School.](https://www.javascript.com/try) A 5 minute introduction to JS.
 - [ ] [Coding with JavaScript For Dummies.](https://www.codecademy.com/en/tracks/coding-with-javascript-for-dummies)
+- [ ] [Intro to JS: Drawing & Animation.](https://www.khanacademy.org/computing/computer-programming/programming)
 
 ## ![MD icon](/images/md.png) Markdown
 
