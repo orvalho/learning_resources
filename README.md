@@ -34,7 +34,7 @@
 
 ## Git & Github
 
-- [ ] [Git & GitHub.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
+- [x] [Git & GitHub.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF) An introductory overview.
 
 ## Chrome extensions
 
