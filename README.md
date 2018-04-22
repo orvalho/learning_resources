@@ -28,6 +28,7 @@
 - [ ] [Intro to JS: Drawing & Animation.](https://www.khanacademy.org/computing/computer-programming/programming)
 - [ ] [HTML/JS: Making webpages interactive.](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 - [ ] [Advanced JS: Games & Visualizations.](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
+- [ ] [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 
 ## ![MD icon](/images/md.png) Markdown
 
