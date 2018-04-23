@@ -50,6 +50,7 @@
 - [ ] [Computer Science and Software Engineering Theory with Briana.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy)
 - [x] [Internet 101.](https://www.khanacademy.org/computing/computer-science/internet-intro)
 - [x] [Networks.](https://www.youtube.com/playlist?list=PLWKjhJtqVAblzbwhT83fRh5nNSHqywxrw)
+- [ ] [How Computers Work](https://www.khanacademy.org/computing/computer-science/how-computers-work2)
 
 ## Command Line
 
