@@ -26,7 +26,7 @@
 - [x] [Try JavaScript by Code School.](https://www.javascript.com/try) A 5 minute introduction to JS.
 - [ ] [Coding with JavaScript For Dummies.](https://www.codecademy.com/en/tracks/coding-with-javascript-for-dummies)
 - [ ] [Intro to JS: Drawing & Animation.](https://www.khanacademy.org/computing/computer-programming/programming)
-- [ ] [HTML/JS: Making webpages interactive.](https://www.khanacademy.org/computing/computer-programming/html-css-js)
+- [x] [HTML/JS: Making webpages interactive.](https://www.khanacademy.org/computing/computer-programming/html-css-js) This tutorial teaches DOM access methods, DOM modification, DOM events, DOM animation.
 - [ ] [Advanced JS: Games & Visualizations.](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
 - [ ] [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 
