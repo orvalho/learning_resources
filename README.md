@@ -16,6 +16,7 @@
 - [ ] [JavaScript Basics.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 - [ ] [DOM - Beau teaches JavaScript.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO)
 - [ ] [ES6 - Beau teaches JavaScript.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
+- [ ] [Intro to JavaScript.](https://eu.udacity.com/course/intro-to-javascript--ud803)
 
 ### Articles
 
