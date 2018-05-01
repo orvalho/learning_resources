@@ -76,3 +76,4 @@
 ## HTML/CSS
 
 - [ ] [Intro to HTML/CSS: Making webpages.](https://www.khanacademy.org/computing/computer-programming/html-css)
+- [ ] [HTML5 Canvas.](https://eu.udacity.com/course/html5-canvas--ud292)
