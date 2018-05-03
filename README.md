@@ -18,6 +18,7 @@
 - [ ] [ES6 - Beau teaches JavaScript.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
 - [ ] [Intro to JavaScript.](https://eu.udacity.com/course/intro-to-javascript--ud803)
 - [ ] [Intro to AJAX.](https://eu.udacity.com/course/intro-to-ajax--ud110)
+- [ ] [JavaScript Testing.](https://eu.udacity.com/course/javascript-testing--ud549)
 
 ### Articles
 
