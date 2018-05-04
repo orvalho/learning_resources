@@ -19,6 +19,7 @@
 - [ ] [Intro to JavaScript.](https://eu.udacity.com/course/intro-to-javascript--ud803)
 - [ ] [Intro to AJAX.](https://eu.udacity.com/course/intro-to-ajax--ud110)
 - [ ] [JavaScript Testing.](https://eu.udacity.com/course/javascript-testing--ud549)
+- [ ] [ES6 - JavaScript Improved.](https://eu.udacity.com/course/es6-javascript-improved--ud356)
 
 ### Articles
 
