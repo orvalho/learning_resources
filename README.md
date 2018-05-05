@@ -43,6 +43,7 @@
 ## Git & Github
 
 - [x] [Git & GitHub.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF) An introductory overview.
+- [ ] [Version Control with Git.](https://eu.udacity.com/course/version-control-with-git--ud123)
 
 ## Chrome extensions
 
