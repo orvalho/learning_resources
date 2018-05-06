@@ -26,6 +26,7 @@
 
 - [x] [5 JavaScript Style Guides — Including AirBnB, GitHub, & Google.](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa) A style guide is a set of standards that outline how code should be written and organized. Style guides can help you write cleaner code.
 - [x] [Creating a Countdown Widget for your Website.](https://www.solodev.com/blog/web-design/creating-a-countdown-widget-for-your-website.stml)
+- [ ] [JavaScript — WTF is ES6, ES8, ES 2017, ECMAScript… ?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c)
 
 ### Interactive resources
 
