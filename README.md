@@ -20,6 +20,7 @@
 - [ ] [Intro to AJAX.](https://eu.udacity.com/course/intro-to-ajax--ud110)
 - [ ] [JavaScript Testing.](https://eu.udacity.com/course/javascript-testing--ud549)
 - [ ] [ES6 - JavaScript Improved.](https://eu.udacity.com/course/es6-javascript-improved--ud356)
+- [ ] [Website Performance Optimization.](https://eu.udacity.com/course/website-performance-optimization--ud884)
 
 ### Articles
 
