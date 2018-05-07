@@ -50,6 +50,8 @@
 
 - [x] [Git & GitHub.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF) An introductory overview.
 - [ ] [Version Control with Git.](https://eu.udacity.com/course/version-control-with-git--ud123)
+- [ ] [How to Use Git and GitHub.](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
+- [ ] [GitHub & Collaboration.](https://eu.udacity.com/course/github-collaboration--ud456)
 
 ## Chrome extensions
 
@@ -63,7 +65,7 @@
 - [x] [Internet 101.](https://www.khanacademy.org/computing/computer-science/internet-intro)
 - [x] [Networks.](https://www.youtube.com/playlist?list=PLWKjhJtqVAblzbwhT83fRh5nNSHqywxrw)
 - [x] [How Computers Work.](https://www.khanacademy.org/computing/computer-science/how-computers-work2)
-
+- [ ] [Networking for Web Developers.](https://eu.udacity.com/course/networking-for-web-developers--ud256)
 ## Command Line
 
 - [x] [Why All Developers Should Learn Command Line by Jake Rocheleau.](https://www.hongkiat.com/blog/developers-command-line/) Reasons to learn CLI.
@@ -87,3 +89,8 @@
 
 - [ ] [Intro to HTML/CSS: Making webpages.](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [ ] [HTML5 Canvas.](https://eu.udacity.com/course/html5-canvas--ud292)
+- [ ] [HTML and CSS Syntax.](https://eu.udacity.com/course/html-and-css-syntax--ud001)
+
+
+## Other
+- [ ] [Writing READMEs.](https://eu.udacity.com/course/writing-readmes--ud777)
