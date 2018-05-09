@@ -31,6 +31,7 @@
 - [x] [JavaScript — WTF is ES6, ES8, ES 2017, ECMAScript… ?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c) Learn JavaScript and ECMAScript history and naming conventions is this short article.
 
 - [x] [5 Common mistakes that every new JavaScript programmer does.](https://codeburst.io/5-common-mistakes-that-every-new-javascript-programmer-does-d0559770d345) Truthy And Falsy Values, Ternary Operator, Equality Check, Addition and Concatenation, Using variable as key in object.
+- [x] [An Intro to Template Strings.](https://wesbos.com/javascript-template-strings/)
 
 ### Interactive resources
 
