@@ -32,7 +32,7 @@
 
 - [x] [5 Common mistakes that every new JavaScript programmer does.](https://codeburst.io/5-common-mistakes-that-every-new-javascript-programmer-does-d0559770d345) Truthy And Falsy Values, Ternary Operator, Equality Check, Addition and Concatenation, Using variable as key in object.
 - [x] [An Intro to Template Strings.](https://wesbos.com/javascript-template-strings/)
-- [ ] [How JavaScript Event Delegation Works.](https://davidwalsh.name/event-delegate)
+- [x] [How JavaScript Event Delegation Works.](https://davidwalsh.name/event-delegate)
 
 ### Interactive resources
 
