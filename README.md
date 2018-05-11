@@ -76,7 +76,7 @@
 
 ## Atom
 
-- [ ] [12 Favorite Atom Tips and Shortcuts to Improve Your Workflow.](https://www.sitepoint.com/12-favorite-atom-tips-and-shortcuts-to-improve-your-workflow/)
+- [x] [12 Favorite Atom Tips and Shortcuts to Improve Your Workflow.](https://www.sitepoint.com/12-favorite-atom-tips-and-shortcuts-to-improve-your-workflow/)
 
 
 ## Emmet
