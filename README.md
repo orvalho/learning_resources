@@ -95,4 +95,4 @@
 
 
 ## Other
-- [ ] [Writing READMEs.](https://eu.udacity.com/course/writing-readmes--ud777)
+- [x] [Writing READMEs.](https://eu.udacity.com/course/writing-readmes--ud777)
