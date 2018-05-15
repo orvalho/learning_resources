@@ -43,6 +43,9 @@
 - [ ] [Advanced JS: Games & Visualizations.](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
 - [ ] [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 
+### Talks
+- [ ] [A Brief History of JavaScript, talk by Brendan Eich (creator of JavaScript)](https://www.youtube.com/watch?v=qKJP93dWn40)
+
 ## ![MD icon](/images/md.png) Markdown
 
 - [x] [Mastering Markdown.](https://guides.github.com/features/mastering-markdown/) Examples and basic syntax.
