@@ -44,7 +44,7 @@
 - [ ] [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 
 ### Talks
-- [ ] [A Brief History of JavaScript, talk by Brendan Eich (creator of JavaScript)](https://www.youtube.com/watch?v=qKJP93dWn40)
+- [ ] [A Brief History of JavaScript, talk by Brendan Eich (creator of JavaScript.)](https://www.youtube.com/watch?v=qKJP93dWn40)
 
 ## ![MD icon](/images/md.png) Markdown
 
@@ -71,10 +71,12 @@
 - [x] [Networks.](https://www.youtube.com/playlist?list=PLWKjhJtqVAblzbwhT83fRh5nNSHqywxrw)
 - [x] [How Computers Work.](https://www.khanacademy.org/computing/computer-science/how-computers-work2)
 - [ ] [Networking for Web Developers.](https://eu.udacity.com/course/networking-for-web-developers--ud256)
-## Command Line
+
+## Shell, Command Line
 
 - [x] [Why All Developers Should Learn Command Line by Jake Rocheleau.](https://www.hongkiat.com/blog/developers-command-line/) Reasons to learn CLI.
 - [x] [Windows Command Line Tutorials by thenewboston.](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu) Learn about the Windows command prompt and basic commands. A beginner friendly resource to learn CLI.
+- [ ] [Shell Workshop.](https://eu.udacity.com/course/shell-workshop--ud206)
 
 
 ## Atom
