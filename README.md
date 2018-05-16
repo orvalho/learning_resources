@@ -76,7 +76,7 @@
 
 - [x] [Why All Developers Should Learn Command Line by Jake Rocheleau.](https://www.hongkiat.com/blog/developers-command-line/) Reasons to learn CLI.
 - [x] [Windows Command Line Tutorials by thenewboston.](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu) Learn about the Windows command prompt and basic commands. A beginner friendly resource to learn CLI.
-- [ ] [Shell Workshop.](https://eu.udacity.com/course/shell-workshop--ud206)
+- [x] [Shell Workshop.](https://eu.udacity.com/course/shell-workshop--ud206) Getting Started in the Shell (using a terminal; working with files and directories; using command-line programs with options; customizing the shell).
 
 
 ## Atom
