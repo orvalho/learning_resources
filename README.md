@@ -46,6 +46,10 @@
 ### Talks
 - [ ] [A Brief History of JavaScript, talk by Brendan Eich (creator of JavaScript.)](https://www.youtube.com/watch?v=qKJP93dWn40)
 
+## SVG
+
+- [ ] [The Practical Beginner’s Guide to SVG.](https://designshack.net/articles/graphics/the-practical-beginners-guide-to-svg/)
+
 ## ![MD icon](/images/md.png) Markdown
 
 - [x] [Mastering Markdown.](https://guides.github.com/features/mastering-markdown/) Examples and basic syntax.
