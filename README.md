@@ -61,6 +61,7 @@
 - [ ] [Version Control with Git.](https://eu.udacity.com/course/version-control-with-git--ud123)
 - [ ] [How to Use Git and GitHub.](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
 - [ ] [GitHub & Collaboration.](https://eu.udacity.com/course/github-collaboration--ud456)
+- [x] [Udacity Git Commit Message Style Guide.](https://udacity.github.io/git-styleguide/)
 
 ## Chrome extensions
 
