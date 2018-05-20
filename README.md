@@ -77,6 +77,7 @@
 - [x] [How Computers Work.](https://www.khanacademy.org/computing/computer-science/how-computers-work2)
 - [ ] [Networking for Web Developers.](https://eu.udacity.com/course/networking-for-web-developers--ud256)
 - [ ] [Algorithms.](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [ ] [Journey into information theory.](https://www.khanacademy.org/computing/computer-science/informationtheory)
 
 ## Shell, Command Line
 
