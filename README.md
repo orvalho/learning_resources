@@ -58,7 +58,7 @@
 ## Git & Github
 
 - [x] [Git & GitHub.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF) An introductory overview.
-- [ ] [Version Control with Git.](https://eu.udacity.com/course/version-control-with-git--ud123)
+- [x] [Version Control with Git.](https://eu.udacity.com/course/version-control-with-git--ud123) How to create a new Git repo, commit changes, review the commit history of an existing repo, keep commits organized using tags and branches, merge changes, edit commits, revert changes, delete commits.
 - [ ] [How to Use Git and GitHub.](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
 - [ ] [GitHub & Collaboration.](https://eu.udacity.com/course/github-collaboration--ud456)
 - [x] [Udacity Git Commit Message Style Guide.](https://udacity.github.io/git-styleguide/)
