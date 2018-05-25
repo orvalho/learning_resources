@@ -63,6 +63,7 @@
 - [ ] [GitHub & Collaboration.](https://eu.udacity.com/course/github-collaboration--ud456)
 - [x] [Udacity Git Commit Message Style Guide.](https://udacity.github.io/git-styleguide/)
 - [ ] [git - the simple guide.](http://rogerdudler.github.io/git-guide/)
+- [ ] [github: git cheat sheet.](https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sheet.pdf)
 
 ## Chrome extensions
 
