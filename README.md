@@ -25,6 +25,7 @@
 - [x] [JavaScript and the DOM.](https://www.udacity.com/course/javascript-and-the-dom--ud117) The Document Object Model, Creating Content with JavaScript, Working with Browser Events, Performance.
 - [ ] [Intro to jQuery.](https://eu.udacity.com/course/intro-to-jquery--ud245)
 - [ ] [HTML/JS: Making webpages interactive with jQuery.](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
+- [ ] [jQuery.](https://www.codecademy.com/en/tracks/jquery)
 
 ### Articles
 
