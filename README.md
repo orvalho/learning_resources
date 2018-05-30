@@ -23,6 +23,7 @@
 - [ ] [ES6 - JavaScript Improved.](https://eu.udacity.com/course/es6-javascript-improved--ud356)
 - [ ] [Website Performance Optimization.](https://eu.udacity.com/course/website-performance-optimization--ud884)
 - [x] [JavaScript and the DOM.](https://www.udacity.com/course/javascript-and-the-dom--ud117) The Document Object Model, Creating Content with JavaScript, Working with Browser Events, Performance.
+- [ ] [Intro to jQuery.](https://eu.udacity.com/course/intro-to-jquery--ud245)
 
 ### Articles
 
