@@ -10,6 +10,7 @@
 - [ ] [Eloquent JavaScript.](https://eloquentjavascript.net/)
 - [ ] [Coding with JavaScript For Dummies.](https://www.amazon.com/Coding-JavaScript-Dummies-Chris-Minnick/dp/1119056071)
 - [ ] [Introduction to the DOM.](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [ ] [JavaScript Glossary.](https://www.codecademy.com/articles/glossary-javascript) 
 
 ### Videos
 
