@@ -48,7 +48,7 @@
 - [ ] [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 - [ ] [Introduction To JavaScript.](https://www.codecademy.com/learn/introduction-to-javascript)
 ### Talks
-- [ ] [A Brief History of JavaScript, talk by Brendan Eich (creator of JavaScript.)](https://www.youtube.com/watch?v=qKJP93dWn40)
+- [x] [A Brief History of JavaScript, talk by Brendan Eich (creator of JavaScript.)](https://www.youtube.com/watch?v=qKJP93dWn40)
 
 ## SVG
 
