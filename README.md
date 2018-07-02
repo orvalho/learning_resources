@@ -17,7 +17,7 @@
 
 - [x] [Learn JavaScript in One Week](https://coderbyte.com/course/learn-javascript-in-one-week). A great resource to learn the basics of JS and to practice solving some challenges (coderbyte).
 - [x] [JavaScript Basics.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5) From variables, strings, arrays to hoisting, closures, promises and much more.   
-- [ ] [DOM - Beau teaches JavaScript.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO)
+- [x] [DOM - Beau teaches JavaScript.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO)
 - [ ] [ES6 - Beau teaches JavaScript.](https://www.youtube.com/playlist?list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
 - [x] [Intro to JavaScript.](https://eu.udacity.com/course/intro-to-javascript--ud803) Fundamentals of the JavaScript Syntax (What is JavaScript?, Data Types & Variables, Conditionals, Loops, Functions, Arrays, Objects).
 - [ ] [Intro to AJAX.](https://eu.udacity.com/course/intro-to-ajax--ud110)
