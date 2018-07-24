@@ -111,6 +111,7 @@
 - [ ] [Intro to HTML/CSS: Making webpages.](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [ ] [HTML5 Canvas.](https://eu.udacity.com/course/html5-canvas--ud292)
 - [ ] [HTML and CSS Syntax.](https://eu.udacity.com/course/html-and-css-syntax--ud001)
+- [x] [CSS Variables Tutorial.](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ii5PB2UMyYH7QFZWfGnVgZ)
 
 
 ## Other
