@@ -112,6 +112,7 @@
 - [ ] [HTML5 Canvas.](https://eu.udacity.com/course/html5-canvas--ud292)
 - [ ] [HTML and CSS Syntax.](https://eu.udacity.com/course/html-and-css-syntax--ud001)
 - [x] [CSS Variables Tutorial.](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ii5PB2UMyYH7QFZWfGnVgZ)
+- [x] [Styling a HTML5 Form.](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g5_p_BVUGWykHfqx6bb7qK)
 
 
 ## Other
