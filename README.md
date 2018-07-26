@@ -106,6 +106,12 @@
 
 * [CodeNewbie.](https://www.codenewbie.org/podcast)
 
+
+## Grunt
+
+- [x] [Grunt JS Tutorials.](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j85fkVyCzCMJDfteLtrl_y)
+
+
 ## HTML/CSS
 
 - [ ] [Intro to HTML/CSS: Making webpages.](https://www.khanacademy.org/computing/computer-programming/html-css)
