@@ -120,6 +120,8 @@
 - [x] [CSS Variables Tutorial.](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ii5PB2UMyYH7QFZWfGnVgZ)
 - [x] [Styling a HTML5 Form.](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g5_p_BVUGWykHfqx6bb7qK)
 - [x] [Simple Pure CSS Spinners.](https://www.youtube.com/watch?v=BxpjA9t4dJE)
+- [x] [Drag & Drop With Vanilla JS.](https://www.youtube.com/watch?v=C22hQKE_32c)
+
 
 
 ## Other
