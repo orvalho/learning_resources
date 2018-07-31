@@ -28,6 +28,8 @@
 - [ ] [Intro to jQuery.](https://eu.udacity.com/course/intro-to-jquery--ud245)
 - [ ] [HTML/JS: Making webpages interactive with jQuery.](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 - [ ] [jQuery.](https://www.codecademy.com/en/tracks/jquery)
+- [x] [Full Screen Image Slider With HTML, CSS & JS.](https://www.youtube.com/watch?v=7ZO2RTMNSAY)
+
 
 ### Articles
 
