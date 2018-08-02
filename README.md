@@ -29,7 +29,7 @@
 - [ ] [HTML/JS: Making webpages interactive with jQuery.](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 - [ ] [jQuery.](https://www.codecademy.com/en/tracks/jquery)
 - [x] [Full Screen Image Slider With HTML, CSS & JS.](https://www.youtube.com/watch?v=7ZO2RTMNSAY)
-
+- [x] [Drag & Drop With Vanilla JS.](https://www.youtube.com/watch?v=C22hQKE_32c)
 
 ### Articles
 
@@ -122,7 +122,7 @@
 - [x] [CSS Variables Tutorial.](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ii5PB2UMyYH7QFZWfGnVgZ)
 - [x] [Styling a HTML5 Form.](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g5_p_BVUGWykHfqx6bb7qK)
 - [x] [Simple Pure CSS Spinners.](https://www.youtube.com/watch?v=BxpjA9t4dJE)
-- [x] [Drag & Drop With Vanilla JS.](https://www.youtube.com/watch?v=C22hQKE_32c)
+- [x] [HTML Crash Course For Absolute Beginners.](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=1)
 
 
 
