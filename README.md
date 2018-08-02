@@ -123,7 +123,7 @@
 - [x] [Styling a HTML5 Form.](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g5_p_BVUGWykHfqx6bb7qK)
 - [x] [Simple Pure CSS Spinners.](https://www.youtube.com/watch?v=BxpjA9t4dJE)
 - [x] [HTML Crash Course For Absolute Beginners.](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=1)
-
+- [x] [HTML Beginner Tutorial.](http://www.htmldog.com/guides/html/beginner/)
 
 
 ## Other
