@@ -124,6 +124,7 @@
 - [x] [Simple Pure CSS Spinners.](https://www.youtube.com/watch?v=BxpjA9t4dJE)
 - [x] [HTML Crash Course For Absolute Beginners.](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=1)
 - [x] [HTML Beginner Tutorial.](http://www.htmldog.com/guides/html/beginner/)
+- [x] [HTML Intermediate Tutorial.](http://www.htmldog.com/guides/html/intermediate/)
 
 
 ## Other
