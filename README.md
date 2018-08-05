@@ -116,10 +116,11 @@
 
 ## HTML & CSS
 
-- [x] [HTML Crash Course For Absolute Beginners by Traversy Media.](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=1)
-- [x] [HTML Beginner Tutorial by HTML Dog.](http://www.htmldog.com/guides/html/beginner/)
-- [x] [HTML Intermediate Tutorial by HTML Dog.](http://www.htmldog.com/guides/html/intermediate/)
-- [x] [HTML Advanced Tutorial by HTML Dog.](http://www.htmldog.com/guides/html/advanced/)
+- [x] [HTML Crash Course For Absolute Beginners *by Traversy Media*.](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=1)
+- [x] [HTML Beginner Tutorial *by HTML Dog*.](http://www.htmldog.com/guides/html/beginner/)
+- [x] [HTML Intermediate Tutorial *by HTML Dog*.](http://www.htmldog.com/guides/html/intermediate/)
+- [x] [HTML Advanced Tutorial *by HTML Dog*.](http://www.htmldog.com/guides/html/advanced/)
+- [x] [Introduction to HTML *by MDN*.](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [ ] [Intro to HTML/CSS: Making webpages.](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [ ] [HTML5 Canvas.](https://eu.udacity.com/course/html5-canvas--ud292)
 - [ ] [HTML and CSS Syntax.](https://eu.udacity.com/course/html-and-css-syntax--ud001)
