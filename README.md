@@ -121,6 +121,7 @@
 - [x] [HTML Intermediate Tutorial *by HTML Dog*.](http://www.htmldog.com/guides/html/intermediate/)
 - [x] [HTML Advanced Tutorial *by HTML Dog*.](http://www.htmldog.com/guides/html/advanced/)
 - [x] [Introduction to HTML *by MDN*.](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+- [x] [HTML Tables *by MDN*.](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
 - [ ] [Intro to HTML/CSS: Making webpages.](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [ ] [HTML5 Canvas.](https://eu.udacity.com/course/html5-canvas--ud292)
 - [ ] [HTML and CSS Syntax.](https://eu.udacity.com/course/html-and-css-syntax--ud001)
