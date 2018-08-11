@@ -131,6 +131,7 @@
 - [x] [Simple Pure CSS Spinners *by Traversy Media*.](https://www.youtube.com/watch?v=BxpjA9t4dJE)
 - [x] [Easy Fullscreen Landing Page With HTML & CSS *by Traversy Media*.](https://www.youtube.com/watch?v=hVdTQWASliE&t=43s&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=8)
 - [x] [Basic Parallax Website With HTML & CSS *by Traversy Media*.](https://www.youtube.com/watch?v=JttTcnidSdQ&index=9&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&t=0s)
+- [x] [Fullscreen Video Background With HTML & CSS *by Traversy Media*.](https://www.youtube.com/watch?v=Xy3GlrddZFI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=29&t=0s)
 
                 ***   
 - [ ] [Intro to HTML/CSS: Making webpages.](https://www.khanacademy.org/computing/computer-programming/html-css)
