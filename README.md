@@ -116,7 +116,6 @@
 
 ## HTML & CSS
 
-                ***
 - [x] [HTML Crash Course For Absolute Beginners *by Traversy Media*.](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=1)
 - [x] [HTML Beginner Tutorial *by HTML Dog*.](http://www.htmldog.com/guides/html/beginner/)
 - [x] [HTML Intermediate Tutorial *by HTML Dog*.](http://www.htmldog.com/guides/html/intermediate/)
@@ -124,8 +123,9 @@
 - [x] [Introduction to HTML *by MDN*.](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [x] [Multimedia and embedding *by MDN*.](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
 - [x] [HTML Tables *by MDN*.](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
-                
-                ***                
+
+- [x] [CSS Beginner Tutorial *by HTML Dog*.](http://www.htmldog.com/guides/css/beginner/)
+
 - [x] [CSS Variables Tutorial.](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ii5PB2UMyYH7QFZWfGnVgZ)
 - [x] [Styling a HTML5 Form.](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g5_p_BVUGWykHfqx6bb7qK)
 - [x] [Simple Pure CSS Spinners *by Traversy Media*.](https://www.youtube.com/watch?v=BxpjA9t4dJE)
@@ -134,7 +134,6 @@
 - [x] [Fullscreen Video Background With HTML & CSS *by Traversy Media*.](https://www.youtube.com/watch?v=Xy3GlrddZFI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=29&t=0s)
 - [x] [Easy Responsive CSS3 Pricing Tables *by Traversy Media*.](https://www.youtube.com/watch?v=7rJ5rhdVvOo)
 
-                ***   
 - [ ] [Intro to HTML/CSS: Making webpages.](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [ ] [HTML5 Canvas.](https://eu.udacity.com/course/html5-canvas--ud292)
 - [ ] [HTML and CSS Syntax.](https://eu.udacity.com/course/html-and-css-syntax--ud001)
